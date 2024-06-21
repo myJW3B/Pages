@@ -1,0 +1,11 @@
+{
+	"Name" : "Pages",
+	"Description" : "To create static, single pages on your website.",
+	"Version" : "1.0",
+	"RequiredPlugins" : "",
+	"IncludeFiles" : ["Pages.class.php", "hooks.php"],
+	"Route" : "pg",
+	"Author" : "John Brittain",
+	"AuthorEmail" : "yohn@jw3b.com",
+	"AuthorUrl" : "https://jw3b.com"
+}

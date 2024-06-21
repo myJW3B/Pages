@@ -1,0 +1,12 @@
+{
+	"name": "myjw3b/pages",
+	"description": "First plugin repo to allow for multiple different pages on the website",
+	"require": {
+		"myjw3b/core":"dev-main",
+		"myjw3b/language":"dev-main",
+		"myjw3b/helpful":"dev-main",
+		"myjw3b/php-bootstrap-form-class": "v1.0",
+		"michelf/php-markdown": "dev-lib",
+		"htmlawed/htmlawed-class": "^1.2"
+	}
+}
